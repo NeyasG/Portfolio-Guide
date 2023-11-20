@@ -12,6 +12,7 @@ Here lies an evergrowing list of all my Projects and Case Studies!
 
 | Project Link | Topics | Description |
 | --- | --- | --- |
+| 📚 [8 Week SQL Challenge](https://github.com/NeyasG/8-Week-SQL-Challenge) | SQL, Postgresql | 8 Case Studies of increasing difficulty to train SQL querying. I also worked to setup a PostgreSQL server locally and learn about setting up a database |
 ***
 ## Python
 
